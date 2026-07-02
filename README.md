@@ -1,5 +1,7 @@
 # BF Companion Utilities
 
+Based on my (old plugin)[https://github.com/voazye/battlefield-companion-QOL]
+
 A full-featured toolkit for the Battlefield Companion emblem editor (companion.battlefield.com).  
 It restores the disabled rotation handle and adds a floating control panel with precise transform controls, undo/redo, alignment tools, and a reference image overlay.
 
@@ -36,7 +38,7 @@ All settings (position, image overlay, etc.) are stored locally in your browser'
 
 ## Support
 
-If you like this extension, please consider leaving a small donation:
+If you like this extension, please consider leaving a Tiny donation ｡◕‿◕｡. Thank you :D
 
 <div align="center">
   <a href="https://ko-fi.com/voazye" target="_blank">
