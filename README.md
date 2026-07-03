@@ -21,6 +21,7 @@ It restores the disabled rotation handle and adds a floating control panel with 
 
 The floating menu is draggable, collapsible, remembers its position, and stays on top of the page.
 
+<hr>
 ## Installation
 
 This extension is built for **Firefox** (desktop).  
