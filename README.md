@@ -24,8 +24,8 @@ The floating menu is draggable, collapsible, remembers its position, and stays o
 ## Installation
 
 This extension is built for **Firefox** (desktop).  
-It is currently not available on the Firefox Add‑on Store.
-Will upload later.
+It is available on the Firefox Add‑on Store:
+https://addons.mozilla.org/en-US/firefox/addon/bf-companion-utilities/
 
 For manual installation (development):  
 - Download this repository as a `.zip` file.
